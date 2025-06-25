@@ -1,4 +1,11 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NlYTc5a2M1Z3VrbHFtaDBhdzRycWtpYXl3dDcwbzVxMmJlbmE5ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="80"/> Welcome to My GitHub Profile
+
+![Banner de dnlmoreno](images/Banner_github_v2.png)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmorenoc/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=WUlT8voAAAAJ&hl=en&authuser=3)
+<!-- CV>
+<!-- Personal WEB>
 
 <!--
 **dnlmoreno/dnlmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
