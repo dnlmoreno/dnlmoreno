@@ -20,7 +20,7 @@ Currently working at [ALeRCE](https://alerce.science), one of the seven official
 
 My work focuses on applying machine learning to astronomical time series and multimodal data, especially through transformer-based models. I have also served as a Research Fellow at Harvard SEAS, exploring vision and vision-language transformers for astronomy.
 
-I’m currently learning more about the startup ecosystem and large-scale generative AI applications and agents automation. Always open to contributing to high-impact research and collaborative projects.
+I’m currently learning more about the startup ecosystem, large-scale generative AI applications, and agent automation. Always open to contributing to high-impact research and collaborative projects.
 
 <!-- My projects-->
 
