@@ -43,7 +43,7 @@ I’m currently learning more about the startup ecosystem, large-scale generativ
 
 ## 🚀 Featured Projects [In preparation]
 
-Explore them on my [personal website](https://dnlmoreno.github.io).
+<!-- Explore them on my [personal website](https://dnlmoreno.github.io).-->
 
 
 ## 📧 Contact 
