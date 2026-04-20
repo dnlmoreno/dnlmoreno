@@ -40,7 +40,7 @@ I’m currently learning more about the startup ecosystem, large-scale generativ
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 🚀 Featured Projects [In preparation]
+## 🚀 Featured Projects
 
 Explore them on my [personal website](https://dnlmoreno.github.io).
 
